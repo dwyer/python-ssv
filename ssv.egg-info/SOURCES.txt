@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+pyproject.toml
+ssv/__init__.py
+ssv.egg-info/PKG-INFO
+ssv.egg-info/SOURCES.txt
+ssv.egg-info/dependency_links.txt
+ssv.egg-info/top_level.txt

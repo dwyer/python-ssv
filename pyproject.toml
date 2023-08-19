@@ -1,0 +1,18 @@
+[project]
+name = "ssv"
+version = "0.0.1"
+authors = [
+  { name="Casey Dwyer", email="kc@dwyer.dev" },
+]
+description = "Space-separated value parser."
+readme = "README.txt"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/dwyer/ssv"
+"Bug Tracker" = "https://github.com/dwyer/ssv/issues"
